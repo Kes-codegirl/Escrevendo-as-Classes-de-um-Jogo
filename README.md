@@ -15,7 +15,7 @@ O que foi praticado:
 Para testar o funcionamento, siga os passos abaixo:
  * Certifique-se de ter o Node.js instalado.
  * Clone este repositório:
-   git clone [LINK-DO-SEU-REPOSITORIO]
+   git clone (https://github.com/Kes-codegirl/Escrevendo-as-Classes-de-um-Jogo.git)
 
  * Acesse a pasta do projeto:
    cd [Index.js]
